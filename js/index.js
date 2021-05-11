@@ -2,7 +2,7 @@ $(document).ready(function(){
     // parallax
     // var test = $('.product__cup');
     // console.log(test);
-    $('.product__cup').parallax({imageSrc: 'asas.png'});
+    // $('.product__cup').parallax({imageSrc: 'asas.png'});
 
     // slick slider
     $('.slider').slick({
